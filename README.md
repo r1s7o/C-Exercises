@@ -7,3 +7,4 @@ made some changes in the second branch
 made a change for git bash exercise
 making a change to make a git bash conflict on local repository
 making a change from the web to make a git bash conflict
+making a change from the second git branch
