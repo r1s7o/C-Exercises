@@ -1,0 +1,6 @@
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\bin\Debug\Basics – More Exercises.exe.config
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\bin\Debug\Basics – More Exercises.exe
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\bin\Debug\Basics – More Exercises.pdb
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\obj\Debug\Basics – More Exercises.csprojResolveAssemblyReference.cache
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\obj\Debug\Basics – More Exercises.exe
+D:\Programming Fondamentals\VS uroci\Basics – More Exercises\Basics – More Exercises\obj\Debug\Basics – More Exercises.pdb
