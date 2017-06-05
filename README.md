@@ -5,4 +5,4 @@ resolved the conflict
 made a change again this time from the master branch
 made some changes in the second branch
 made a change for git bash exercise
-making a change fom the web to make agit bash conflict
+making a change fom the web to make a git bash conflict
